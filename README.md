@@ -14,8 +14,8 @@
 
 ## Прямая подписка
 
-* **[JSPirates HD](https://raw.github.com/JSPirates/podcast/master/jsp_720.xml)** — видео 720p
-* **[JSPirates](https://raw.github.com/JSPirates/podcast/master/jsp_480.xml)** — видео 480p (файлы в 2 раза меньше)
+* **[JSPirates HD](https://raw.github.com/JSPirates/podcast/master/jsp_720p.xml)** — видео 720p
+* **[JSPirates](https://raw.github.com/JSPirates/podcast/master/jsp_480p.xml)** — видео 480p (файлы в 2 раза меньше)
 * **[JSPirates audio](https://raw.github.com/JSPirates/podcast/master/jsp_audio.xml)** — только звук (есть, что послушать ;)
 
 ## Подписка через iTunes
