@@ -6,15 +6,17 @@
 
 Ведущие подкаста: [Борис Егоров](http://github.com/dolphin278) и [Григорий Ситнин](http://github.com/sitnin).
 
+Сайт подкаста: [http://jspirates.com](jspirates.com)
+
 ## Просмотр online
 
 * [YouTube](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg)
 
 ## Прямая подписка
 
-* **JSPirates HD** — видео 720p, [https://s3.amazonaws.com/jspirates/jsp_720p.xml](https://s3.amazonaws.com/jspirates/jsp_720p.xml)
-* **JSPirates** — видео 480p, [https://s3.amazonaws.com/jspirates/jsp_480p.xml](https://s3.amazonaws.com/jspirates/jsp_480p.xml) (файлы в 2 раза меньше)
-* **JSPirates audio** — только звук, [https://s3.amazonaws.com/jspirates/jsp_audio.xml](https://s3.amazonaws.com/jspirates/jsp_audio.xml) (есть, что послушать ;)
+* **[JSPirates HD](https://raw.github.com/JSPirates/podcast/master/jsp_720.xml)** — видео 720p
+* **[JSPirates](https://raw.github.com/JSPirates/podcast/master/jsp_480.xml)** — видео 480p (файлы в 2 раза меньше)
+* **[JSPirates audio](https://raw.github.com/JSPirates/podcast/master/jsp_audio.xml)** — только звук (есть, что послушать ;)
 
 ## Подписка через iTunes
 
@@ -24,5 +26,4 @@
 
 ## Эпизоды
 
-  * s01e01 — Эпизод, в котором мы рассказываем о LevelDb и работе со стримами.
-
+* [s01e01](https://github.com/JSPirates/podcast/tree/master/s01e01) — LevelDb и работа со стримами
