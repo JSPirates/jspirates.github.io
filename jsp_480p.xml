@@ -20,6 +20,7 @@
             <title>JSPirates s01e02 - компилируемые модули для Node.js</title>
             <itunes:subtitle>Создание компилируемых (native) модулей для Node.js</itunes:subtitle>
             <itunes:summary><![CDATA[*** Ссылки ***
+
 Node.js Addons: http://nodejs.org/api/addons.html
 node-gyp: https://github.com/TooTallNate/node-gyp
 GYP project: http://code.google.com/p/gyp/
