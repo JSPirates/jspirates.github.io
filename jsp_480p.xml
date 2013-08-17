@@ -12,38 +12,8 @@
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
         <itunes:new-feed-url>http://jspirates.com/jsp_480p.xml</itunes:new-feed-url>
-        <pubDate>Tue, 06 Aug 2013 09:31:45 GMT</pubDate>
-        <lastBuildDate>Sat, 17 Aug 20:21:23 GMT</lastBuildDate>
-
-        <item>
-            <title>JSPirates s01e02 - компилируемые модуля для Node.js</title>
-            <itunes:subtitle>Создание компилируемых (native) модулей для Node.js</itunes:subtitle>
-            <itunes:summary><![CDATA[*** Ссылки ***
-Node.js Addons: http://nodejs.org/api/addons.html
-node-gyp: https://github.com/TooTallNate/node-gyp
-GYP project: http://code.google.com/p/gyp/
-Поиск AllThingsNodeRelated: http://allthingsnoderelated.com
-
-*** AllThingsNodeRelated ***
-@dolphin278 сделал с помощью Google поисковую систему по nodejs-овским вопросам: http://allthigsnoderelated.com
-
-Называется AllTingsNodeRelated
-
-Ищет модули, статьи, обсуждения и другое.
-
-*** О подкасте ***
-
-Сайт подкаста: http://jspirates.com
-
-Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
-
-Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
-            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
-            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_s01e02_480p.mp4" length="304837966" type="video/mp4" />
-            <guid>https://s3.amazonaws.com/jspirates/jsp_s01e02_480p.mp4</guid>
-            <pubDate>Sat, 17 Aug 20:21:23 GMT</pubDate>
-            <itunes:duration>40:55</itunes:duration>
-        </item>
+        <pubDate>Sat, 17 Aug 20:37:23 GMT</pubDate>
+        <lastBuildDate>Sat, 17 Aug 20:37:23 GMT</lastBuildDate>
 
         <item>
             <title>JSPirates s01e01 - LevelDB</title>
@@ -71,6 +41,37 @@ http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
             <guid>https://s3.amazonaws.com/jspirates/jsp_s01e01_480p.mp4</guid>
             <pubDate>Mon, 05 Aug 2013 13:31:45 GMT</pubDate>
             <itunes:duration>49:11</itunes:duration>
+        </item>
+
+        <item>
+            <title>JSPirates s01e02 - компилируемые модуля для Node.js</title>
+            <itunes:subtitle>Создание компилируемых (native) модулей для Node.js</itunes:subtitle>
+            <itunes:summary><![CDATA[*** Ссылки ***
+Node.js Addons: http://nodejs.org/api/addons.html
+node-gyp: https://github.com/TooTallNate/node-gyp
+GYP project: http://code.google.com/p/gyp/
+iChing lib: http://github.com/sitnin/iching
+Поиск AllThingsNodeRelated: http://allthingsnoderelated.com
+
+*** AllThingsNodeRelated ***
+@dolphin278 сделал с помощью Google поисковую систему по nodejs-овским вопросам: http://allthigsnoderelated.com
+
+Называется AllTingsNodeRelated
+
+Ищет модули, статьи, обсуждения и другое.
+
+*** О подкасте ***
+
+Сайт подкаста: http://jspirates.com
+
+Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
+
+Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
+            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_s01e02_480p.mp4" length="304837966" type="video/mp4" />
+            <guid>https://s3.amazonaws.com/jspirates/jsp_s01e02_480p.mp4</guid>
+            <pubDate>Sat, 17 Aug 20:21:23 GMT</pubDate>
+            <itunes:duration>40:55</itunes:duration>
         </item>
     </channel>
 </rss>
