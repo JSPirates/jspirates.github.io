@@ -26,4 +26,6 @@
 
 ## Эпизоды
 
-* [s01e01](https://github.com/JSPirates/podcast/tree/master/s01e01) — LevelDb и работа со стримами
+* [JSPirates 001](https://github.com/JSPirates/podcast/tree/master/001) — LevelDb и работа со стримами
+* [JSPirates 002](https://github.com/JSPirates/podcast/tree/master/002) — компилируемые модули для Node.js
+* [JSPirates 003](https://github.com/JSPirates/podcast/tree/master/003) — NodeConf 2013
