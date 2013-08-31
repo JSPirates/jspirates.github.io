@@ -12,9 +12,32 @@
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
         <itunes:new-feed-url>http://jspirates.com/jsp_720p.xml</itunes:new-feed-url>
-        <pubDate>Mon, 05 Aug 2013 13:31:45 GMT</pubDate>
+        <pubDate>Sat, 31 Aug 2013 17:22:49 GMT</pubDate>
+        <lastBuildDate>Sat, 31 Aug 2013 17:22:49 GMT</lastBuildDate>
 
-        <lastBuildDate>Fri, 23 Aug 2013 22:40:24 GMT</lastBuildDate>
+        <item>
+            <title>JSPirates 004 - Авторизация в социальных сетях</title>
+            <itunes:subtitle>Авторизация в социальных сетях при помощи библиотеки Passport</itunes:subtitle>
+            <itunes:summary><![CDATA[*** Ссылки ***
+
+* Passport: http://passportjs.org
+* Facebook for Web Developers: https://developers.facebook.com/docs/...
+* Twitter for Websites: https://dev.twitter.com/docs/twitter-...
+* Everyauth: http://everyauth.com (скорее мёртв, чем жив)
+
+*** О подкасте ***
+
+Сайт подкаста: http://jspirates.com
+
+Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
+
+Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
+            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_004_720p.mp4" length="544074005" type="video/mp4" />
+            <guid>https://s3.amazonaws.com/jspirates/jsp_004_720p.mp4</guid>
+            <pubDate>Sat, 31 Aug 2013 17:22:49 GMT</pubDate>
+            <itunes:duration>52:28</itunes:duration>
+        </item>
 
         <item>
             <title>JSPirates 003 - NodeConf 2013</title>
@@ -63,8 +86,8 @@ iChing lib: http://github.com/sitnin/iching
 
 Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
             <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
-            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_s01e02_720p.mp4" length="549234843" type="video/mp4" />
-            <guid>https://s3.amazonaws.com/jspirates/jsp_s01e02_720p.mp4</guid>
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_002_720p.mp4" length="549234843" type="video/mp4" />
+            <guid>https://s3.amazonaws.com/jspirates/jsp_002_720p.mp4</guid>
             <pubDate>Sat, 17 Aug 2013 20:52:23 GMT</pubDate>
             <itunes:duration>40:55</itunes:duration>
         </item>
@@ -91,8 +114,8 @@ http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
 
 Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
             <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
-            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_s01e01_720p.mp4" length="659010724" type="video/mp4" />
-            <guid>https://s3.amazonaws.com/jspirates/jsp_s01e01_720p.mp4</guid>
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_001_720p.mp4" length="659010724" type="video/mp4" />
+            <guid>https://s3.amazonaws.com/jspirates/jsp_001_720p.mp4</guid>
             <pubDate>Mon, 05 Aug 2013 13:31:45 GMT</pubDate>
             <itunes:duration>49:11</itunes:duration>
         </item>

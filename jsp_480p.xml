@@ -12,9 +12,32 @@
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
         <itunes:new-feed-url>http://jspirates.com/jsp_480p.xml</itunes:new-feed-url>
-        <pubDate>Mon, 05 Aug 2013 13:31:45 GMT</pubDate>
+        <pubDate>Sat, 31 Aug 2013 17:22:49 GMT</pubDate>
+        <lastBuildDate>Sat, 31 Aug 2013 17:22:49 GMT</lastBuildDate>
 
-        <lastBuildDate>Fri, 23 Aug 2013 22:40:24 GMT</lastBuildDate>
+        <item>
+            <title>JSPirates 004 - Авторизация в социальных сетях</title>
+            <itunes:subtitle>Авторизация в социальных сетях при помощи библиотеки Passport</itunes:subtitle>
+            <itunes:summary><![CDATA[*** Ссылки ***
+
+* Passport: http://passportjs.org
+* Facebook for Web Developers: https://developers.facebook.com/docs/...
+* Twitter for Websites: https://dev.twitter.com/docs/twitter-...
+* Everyauth: http://everyauth.com (скорее мёртв, чем жив)
+
+*** О подкасте ***
+
+Сайт подкаста: http://jspirates.com
+
+Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
+
+Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
+            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_004_480p.mp4" length="313065549" type="video/mp4" />
+            <guid>https://s3.amazonaws.com/jspirates/jsp_004_480p.mp4</guid>
+            <pubDate>Sat, 31 Aug 2013 17:22:49 GMT</pubDate>
+            <itunes:duration>52:28</itunes:duration>
+        </item>
 
         <item>
             <title>JSPirates 003 - NodeConf 2013</title>
