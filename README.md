@@ -26,6 +26,7 @@
 
 ## Эпизоды
 
+* [JSPirates 005](https://github.com/JSPirates/podcast/tree/master/005) — Приключения с потоками в Node.js
 * [JSPirates 004](https://github.com/JSPirates/podcast/tree/master/004) — Авторизация в социальных сетях
 * [JSPirates 003](https://github.com/JSPirates/podcast/tree/master/003) — NodeConf 2013
 * [JSPirates 002](https://github.com/JSPirates/podcast/tree/master/002) — компилируемые модули для Node.js
