@@ -31,7 +31,7 @@
 
 Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
             <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
-            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_005_480p.mp3" length="306032088" type="video/mp4" />
+            <enclosure url="https://s3.amazonaws.com/jspirates/jsp_005_480p.mp4" length="306032088" type="video/mp4" />
             <guid>https://s3.amazonaws.com/jspirates/jsp_005_480p.mp3</guid>
             <pubDate>Wed, 04 Sep 2013 21:48:20 GMT</pubDate>
             <itunes:duration>46:10</itunes:duration>
