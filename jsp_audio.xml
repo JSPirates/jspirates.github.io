@@ -12,8 +12,30 @@
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
         <itunes:new-feed-url>http://jspirates.com/jsp_audio.xml</itunes:new-feed-url>
-        <pubDate>Wed, 04 Sep 2013 21:48:20 GMT</pubDate>
-        <lastBuildDate>Wed, 04 Sep 2013 21:48:20 GMT</lastBuildDate>
+        <pubDate>Wed, 18 Sep 2013 11:59:26 GMT</pubDate>
+        <lastBuildDate>Wed, 18 Sep 2013 11:59:26 GMT</lastBuildDate>
+
+        <item>
+            <title>JSPirates 006 - Приключения с потоками Node.js продолжаются</title>
+            <itunes:subtitle>Вторая часть рассказа о потоках во время прохождения квеста stream-adventure</itunes:subtitle>
+            <itunes:summary><![CDATA[*** Ссылки ***
+
+* Stream Adventure: https://github.com/substack/stream-adventure
+* Статья "A New Streaming API for Node v0.10" http://blog.nodejs.org/2012/12/20/streams2/
+
+*** О подкасте ***
+
+Сайт подкаста: http://jspirates.com
+
+Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
+
+Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
+            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
+            <enclosure url="http://s3.amazonaws.com/jspirates/jsp_006.mp3" length="56726134" type="audio/mpeg" />
+            <guid>http://s3.amazonaws.com/jspirates/jsp_006.mp3</guid>
+            <pubDate>Wed, 18 Sep 2013 11:59:26 GMT</pubDate>
+            <itunes:duration>49:08</itunes:duration>
+        </item>
 
         <item>
             <title>JSPirates 005 - Приключения с потоками Node.js</title>
