@@ -17,7 +17,7 @@
         <item>
             <pubDate>Sat, 28 Sep 2013 16:59:39 GMT</pubDate>
             <guid>http://s3.amazonaws.com/jspirates/jsp_007_480p.mp4</guid>
-            <enclosure url="http://s3.amazonaws.com/jspirates/jsp_007_480p.mp4" length="" type="video/mp4" />
+            <enclosure url="http://s3.amazonaws.com/jspirates/jsp_007_480p.mp4" length="697261000" type="video/mp4" />
             <title>JSPirates 007 - Тестирование в Node.js</title>
             <itunes:subtitle>Боевой пример различных способов тестирования в Node.js. Пример TDD, BDD и интеграционного тестирования</itunes:subtitle>
             <itunes:duration>01:31:21</itunes:duration>
