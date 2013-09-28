@@ -12,8 +12,32 @@
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
         <itunes:new-feed-url>http://jspirates.com/jsp_720p.xml</itunes:new-feed-url>
-        <pubDate>Wed, 18 Sep 2013 11:59:26 GMT</pubDate>
-        <lastBuildDate>Wed, 18 Sep 2013 11:59:26 GMT</lastBuildDate>
+        <pubDate>Sat, 28 Sep 2013 16:59:39 GMT</pubDate>
+        <lastBuildDate>Sat, 28 Sep 2013 16:59:39 GMT</lastBuildDate>
+
+        <item>
+            <pubDate>Sat, 28 Sep 2013 16:59:39 GMT</pubDate>
+            <guid>http://s3.amazonaws.com/jspirates/jsp_007_720p.mp4</guid>
+            <enclosure url="http://s3.amazonaws.com/jspirates/jsp_007_720p.mp4" length="" type="video/mp4" />
+            <title>JSPirates 007 - Тестирование в Node.js</title>
+            <itunes:subtitle>Боевой пример различных способов тестирования в Node.js. Пример TDD, BDD и интеграционного тестирования</itunes:subtitle>
+            <itunes:duration>01:31:21</itunes:duration>
+            <itunes:summary><![CDATA[*** Ссылки ***
+
+* S3 Logs Parser (тестируемый в подкасте код): http://github.com/JSPirates/s3logs
+* node-unit: http://github.com/caolan/nodeunit
+* mocha: http://visionmedia.github.io/mocha/
+* vows: http://vowsjs.org/
+
+*** О подкасте ***
+
+Сайт подкаста: http://jspirates.com
+
+Репозиторий подкаста на GitHub-е: https://github.com/JSPirates/podcast
+
+Предлагайте темы и присылайте ссылки на модули через Issues: https://github.com/JSPirates/podcast/issues]]></itunes:summary>
+            <itunes:image href="https://s3.amazonaws.com/jspirates/cover.jpg" />
+        </item>
 
         <item>
             <title>JSPirates 006 - Приключения с потоками Node.js продолжаются</title>
