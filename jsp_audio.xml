@@ -11,7 +11,6 @@
         <description>Приблизительно еженедельный подкаст о Node.js, модулях, подходах и т.д.</description>
         <itunes:image href="https://github.com/JSPirates/podcast/blob/master/cover.jpg?raw=true" />
         <itunes:category text="Technology"><itunes:category text="Software How-To"/></itunes:category>
-        <itunes:new-feed-url>http://jspirates.com/jsp_audio.xml</itunes:new-feed-url>
         <pubDate>Sat, 28 Sep 2013 16:59:39 GMT</pubDate>
         <lastBuildDate>Sat, 28 Sep 2013 16:59:39 GMT</lastBuildDate>
 
